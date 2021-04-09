@@ -1,0 +1,5 @@
+{
+  "Connection_String": "blog:blogMDP@/blog?charset=utf8mb4&parseTime=True&loc=Local",
+  "Admin_MDP": "ADMINMDP",
+  "URL": "http://localhost:8080"
+}
